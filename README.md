@@ -1,4 +1,4 @@
-# README - Dự án Kiểm Định Tự Động với Selenium & TestNG
+# Automation Test with Selenium & TestNG
 
 ## Giới thiệu
 Dự án này thực hiện kiểm thử tự động các chức năng trên trang web [Lotte Cinema](https://www.lottecinemavn.com) bằng **Selenium WebDriver** kết hợp với **TestNG**. Mục tiêu của dự án là kiểm tra các chức năng quan trọng như đăng nhập, đặt vé, xem lịch chiếu, và kiểm tra bảo mật.
