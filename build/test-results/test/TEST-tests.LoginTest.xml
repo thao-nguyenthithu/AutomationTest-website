@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.LoginTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-03-05T11:55:41" hostname="USAGI-LAPTOP" time="160.183">
+  <properties/>
+  <testcase name="loginPerformanceTest" classname="tests.LoginTest" time="11.058"/>
+  <testcase name="loginTrue" classname="tests.LoginTest" time="32.826"/>
+  <testcase name="loginWithEmptyFields" classname="tests.LoginTest" time="12.131"/>
+  <testcase name="loginWithInvalidEmailFormat" classname="tests.LoginTest" time="11.865"/>
+  <testcase name="loginWithWrongPassword" classname="tests.LoginTest" time="11.745"/>
+  <system-out><![CDATA[Khong can dang xuat, tiep tuc test.
+---TEST HIEU NANG DANG NHAP---
+AN QUANG CAO THANH CONG
+Thoi gian dang nhap: 832ms
+pass test
+Xoa cookies sau moi test.
+Khong can dang xuat, tiep tuc test.
+---TETS DANG NHAP THANH CONG---
+AN QUANG CAO THANH CONG
+Loi khi dang nhap: Expected condition failed: waiting for visibility of element located by By.id: username (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 133.0.6943.143, chrome: {chromedriverVersion: 133.0.6943.141 (2a5d6da0d61..., userDataDir: C:\Users\thith\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63250}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63250/devtoo..., se:cdpVersion: 133.0.6943.143, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4a9971a5c8281b31ea90dc235a4c8907
+pass test
+Xoa cookies sau moi test.
+Khong can dang xuat, tiep tuc test.
+---TEST BO TRONG EMAIL & PASSWORD---
+AN QUANG CAO THANH CONG
+pass test
+Xoa cookies sau moi test.
+Khong can dang xuat, tiep tuc test.
+---TEST EMAIL SAI---
+AN QUANG CAO THANH CONG
+pass test
+Xoa cookies sau moi test.
+Khong can dang xuat, tiep tuc test.
+---TEST PASSWORD SAI---
+AN QUANG CAO THANH CONG
+pass test
+Xoa cookies sau moi test.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

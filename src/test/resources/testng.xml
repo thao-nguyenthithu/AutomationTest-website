@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="LotteCinema Test Suite">
+    <test name="Full Test Execution">
+        <packages>
+            <package name="tests"/>
+            <package name="security"/>
+            <package name="base"/>
+        </packages>
+    </test>
+</suite>

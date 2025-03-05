@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.MouseActions" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-03-05T11:58:31" hostname="USAGI-LAPTOP" time="10.768">
+  <properties/>
+  <testcase name="MouseHoverTest" classname="tests.MouseActions" time="5.636"/>
+  <testcase name="testClick" classname="tests.MouseActions" time="4.343"/>
+  <testcase name="testDoubleClick" classname="tests.MouseActions" time="0.015"/>
+  <testcase name="testHoverOnLink" classname="tests.MouseActions" time="0.622"/>
+  <testcase name="testRightClick" classname="tests.MouseActions" time="0.151"/>
+  <system-out><![CDATA[true
+Nam Dinh is true
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

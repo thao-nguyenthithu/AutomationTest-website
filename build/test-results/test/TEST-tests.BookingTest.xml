@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.BookingTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-03-05T11:54:01" hostname="USAGI-LAPTOP" time="13.339">
+  <properties/>
+  <testcase name="bookingSuccessfully" classname="tests.BookingTest" time="13.339"/>
+  <system-out><![CDATA[AN QUANG CAO THANH CONG
+AN QUANG CAO THANH CONG
+---DANG NHAP THANH CONG---
+---CHON KHU VUC RAP---
+Chon thanh cong khu vuc rap: Hà N?i(4)
+Hà Đông
+Kosmo
+Thăng Long
+West Lake
+---CHON TEN RAP---
+Chon thanh cong ten rap: Hà Đông
+---CHON KHUNG GIO---
+Chon thanh cong suat chieu: Screen07
+20:20 ~ 22:40
+30 / 116 Gh? ng?i
+---CHON SO LUONG GHE---
+Chon thanh cong so luong ghe: 2
+---CHON VI TRI GHE NGOI---
+Chon thanh cong vi tri ghe: null
+---VAO TRANG THANH TOAN---
+Da vao trang thanh toan tien thanh cong.
+]]></system-out>
+  <system-err><![CDATA[SLF4J(W): No SLF4J providers were found.
+SLF4J(W): Defaulting to no-operation (NOP) logger implementation
+SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
+]]></system-err>
+</testsuite>

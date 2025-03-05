@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="security.BruteForceLogin" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-03-05T11:52:53" hostname="USAGI-LAPTOP" time="21.399">
+  <properties/>
+  <testcase name="testBruteForceLogin" classname="security.BruteForceLogin" time="16.438"/>
+  <testcase name="testValidLogin" classname="security.BruteForceLogin" time="3.746"/>
+  <system-out><![CDATA[L?n th? đăng nh?p: 1
+L?n th? đăng nh?p: 2
+L?i x?y ra ? l?n th?: 2 - Expected condition failed: waiting for visibility of element located by By.xpath: //input[@id='username'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 133.0.6943.143, chrome: {chromedriverVersion: 133.0.6943.141 (2a5d6da0d61..., userDataDir: C:\Users\thith\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62979}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62979/devtoo..., se:cdpVersion: 133.0.6943.143, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e20091118b03533503e3d5d625ed772f
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

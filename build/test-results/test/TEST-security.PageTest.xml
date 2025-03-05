@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="security.PageTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-03-05T11:53:18" hostname="USAGI-LAPTOP" time="9.896">
+  <properties/>
+  <testcase name="testNavigation" classname="security.PageTest" time="5.756"/>
+  <testcase name="testPageLoad" classname="security.PageTest" time="0.007"/>
+  <testcase name="testPageReload" classname="security.PageTest" time="4.133"/>
+  <system-out><![CDATA[Đ? đóng qu?ng cáo.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

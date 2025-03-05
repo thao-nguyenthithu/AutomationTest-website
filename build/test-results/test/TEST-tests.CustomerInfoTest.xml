@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.CustomerInfoTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-03-05T11:54:45" hostname="USAGI-LAPTOP" time="34.673">
+  <properties/>
+  <testcase name="historyTicketPurchase" classname="tests.CustomerInfoTest" time="2.865"/>
+  <testcase name="historyWatchedMovies" classname="tests.CustomerInfoTest" time="2.143"/>
+  <testcase name="updateAccountInfo" classname="tests.CustomerInfoTest" time="29.664"/>
+  <system-out><![CDATA[AN QUANG CAO THANH CONG
+AN QUANG CAO THANH CONG
+---DANG NHAP THANH CONG---
+---VAO TRANG 'TAI KHOAN CUA TOI'---
+---LICH SU MUA VE---
+pass
+---LICH SU XEM PHIM---
+pass
+---UPDATE THONG TIN TAI KHOAN---
+pass
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

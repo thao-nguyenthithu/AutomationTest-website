@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.SearchFim" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-03-05T11:58:53" hostname="USAGI-LAPTOP" time="18.207">
+  <properties/>
+  <testcase name="testFindNowShowingMovies" classname="tests.SearchFim" time="8.922"/>
+  <testcase name="testFindUpcomingMovies" classname="tests.SearchFim" time="9.285"/>
+  <system-out><![CDATA[Đ? đóng qu?ng cáo.
+Đ? đóng qu?ng cáo.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

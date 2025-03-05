@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.ViewInforMovieTest" tests="3" skipped="1" failures="0" errors="0" timestamp="2025-03-05T11:59:19" hostname="USAGI-LAPTOP" time="47.575">
+  <properties/>
+  <testcase name="viewInforMoieByClickTitle" classname="tests.ViewInforMovieTest" time="17.118"/>
+  <testcase name="viewInforMovieByButton" classname="tests.ViewInforMovieTest" time="6.779">
+    <skipped/>
+  </testcase>
+  <testcase name="viewInforMovieByButton" classname="tests.ViewInforMovieTest" time="13.635"/>
+  <system-out><![CDATA[AN QUANG CAO THANH CONG
+---TEST XEM CHI TIET PHIM BANG TEN PHIM---
+Da chon phim: ??GIAO HÀNG CHO MA
+Click thanh cong
+pass
+Xoa cokie sau moi test
+AN QUANG CAO THANH CONG
+---TEST XEM CHI TIET PHIM BANG BUTTON---
+Test bi failde, thu lai lan: 1
+Xoa cokie sau moi test
+AN QUANG CAO THANH CONG
+---TEST XEM CHI TIET PHIM BANG BUTTON---
+Da chon phim: ??NHÀ GIA TIÊN
+Di chuot vao phim
+pass
+Xoa cokie sau moi test
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
